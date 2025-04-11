@@ -15,6 +15,11 @@
 
 ...
 
+## What should you test?
+
+...
+
 ## Screenshots
 
 ...
+
